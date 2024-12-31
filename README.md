@@ -9,7 +9,7 @@ The Bayesian Network contains four variables:
 - **C**: Binary variable indicating whether George is out of cat food.
 - **F**: Binary variable indicating whether George feeds the cat.
 
-- ![image](https://github.com/user-attachments/assets/3797f69c-0506-4e9b-8a53-6debd2554397)
+![image](https://github.com/user-attachments/assets/3797f69c-0506-4e9b-8a53-6debd2554397)
 
 
 ---
