@@ -90,10 +90,11 @@ $ Example Queries
 
 
 
-## Example Execution of the program ##
-CMD: python bnet.py training_data.txt
-Query: Bt
-Probability: 0.304110
-Query: Bt given Ct
-Probability: 0.051657
-Query: None
+$ Example Execution of the program
+	
+	CMD: python bnet.py training_data.txt
+	Query: Bt
+	Probability: 0.304110
+	Query: Bt given Ct
+	Probability: 0.051657
+	Query: None
